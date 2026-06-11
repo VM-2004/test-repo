@@ -1,0 +1,51 @@
+Programming Languages Information
+
+1. Python
+- Type: High-level, interpreted
+- Uses: Web development, data science, AI, automation
+- Popular Frameworks: Django, Flask, FastAPI
+
+2. Java
+- Type: Object-oriented, compiled to bytecode
+- Uses: Enterprise applications, Android development
+- Popular Frameworks: Spring, Hibernate
+
+3. C++
+- Type: Compiled, multi-paradigm
+- Uses: Game development, system programming, embedded systems
+- Features: High performance, memory control
+
+4. JavaScript
+- Type: Interpreted, dynamic
+- Uses: Web development, frontend and backend
+- Popular Frameworks: React, Angular, Node.js
+
+5. C#
+- Type: Object-oriented, compiled
+- Uses: Desktop applications, web applications, game development
+- Popular Frameworks: .NET, ASP.NET
+
+6. Go
+- Type: Compiled, statically typed
+- Uses: Cloud services, networking, backend systems
+- Features: Simplicity, concurrency support
+
+7. Rust
+- Type: Compiled, systems programming
+- Uses: Operating systems, high-performance applications
+- Features: Memory safety without garbage collection
+
+8. PHP
+- Type: Server-side scripting language
+- Uses: Web development
+- Popular Frameworks: Laravel, Symfony
+
+9. Swift
+- Type: Compiled, modern programming language
+- Uses: iOS and macOS application development
+- Developed By: Apple
+
+10. Kotlin
+- Type: Statically typed
+- Uses: Android development, backend development
+- Features: Interoperable with Java
